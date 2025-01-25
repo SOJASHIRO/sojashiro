@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
@@ -108,4 +107,3 @@
         <img src="https://images.unsplash.com/photo-1493606278519-11aa9f86e40a" alt="About Image" class="about-image">
     </div>
 </body>
-</html>
